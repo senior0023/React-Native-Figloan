@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896822704980",
+    "firebase_url": "https://fig-loans-c0ff5.firebaseio.com",
+    "project_id": "fig-loans-c0ff5",
+    "storage_bucket": "fig-loans-c0ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896822704980:android:f0a215cd53613b705826c1",
+        "android_client_info": {
+          "package_name": "com.figloans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896822704980-effiooomu6a13mm643pk1aeb1tmaql1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdL_RAXIlgUqFAXtrIevxoVqvyuE9u-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896822704980-effiooomu6a13mm643pk1aeb1tmaql1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
